@@ -1,0 +1,1 @@
+{"jobID":"cfd3e6b1-49e6-fc08-6192-cf9293e40765","spec":{"type":"policy","cause":{"Message":"3.2.2 does not work for us","User":"Matthew Slane \u003cmatthewslane@kaluza.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"3.2.2 does not work for us","locked_user":"Matthew Slane \u003cmatthewslane@kaluza.com\u003e"},"remove":{}}}},"result":null}
